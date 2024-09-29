@@ -1,0 +1,14 @@
+<html>
+<body>
+    <h1>Java script statmenents</h1>
+    <p>A<b>Java script program</b>to be executet by computer</p>
+    <p id="cat"></p>
+    <script>
+        var num1,num2,sum;
+         num1=5;
+         num2=4;
+         sum=num1+num2;
+        document.getElementById("cat") .innerHTML="sum of 5 and 4"+sum+".";
+        </script>
+</body>
+</html>

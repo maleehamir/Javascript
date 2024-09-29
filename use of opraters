@@ -1,0 +1,13 @@
+<html>
+<body>
+    <p id="ball"></p>
+    <script>
+        var A=2;
+        var B=3;
+      var  sum=A+B;
+      document.getElementById("ball") .innerHTML=sum;
+      </script>
+</body>
+</html>
+
+        
